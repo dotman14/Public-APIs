@@ -44,6 +44,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [News](#news-services)
 - [Placeholder Images] (#placeholder-images)
 - [Places] (#places)
+- [Politics] (#politics)
 - [Social Media] (#social-media)
 - [Source Control] (#source-control)
 - [Sport] (#sport)
@@ -313,6 +314,10 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [Yahoo GeoPlanet](https://developer.yahoo.com/geo/geoplanet/) - Providing a places search that can be searched by type, county, state, country, oceans, seas, continents, hierarchy and full text search.
 - [Yelp](https://www.yelp.com/developers/documentation/v2/overview) - You can search location using geo bounding box, longitude and latitude, neighborhood, address or city and filter listings by “where”, using a list of support categories.
 - [YP](https://publisher.yp.com/) - Providing a places search that can be queried by keyword and longitude/latitude, street address, city, postal code, Neighborhood, state, points of interest or by phone number.
+
+### Politics
+
+- [US Elections By County](https://electionsbycounty.com/home/api) - Access to US Elections Results for ALL counties in the US as far back as 1920.
 
 ### Retail
 
